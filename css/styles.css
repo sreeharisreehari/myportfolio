@@ -10648,27 +10648,28 @@ textarea.form-control-lg {
   }
 
   .badge {
-    background: linear-gradient(to right, #e67e22, #f1c40f);
-    padding: 10px;
+   background-color: #FEBE10;
+    padding: 13px;
   }
-  .bgg{
-    background: linear-gradient(to right, #3498db, #2ecc71);
-    -webkit-background-clip: text;
-    color: transparent;
-    display: inline-block; 
-  }
+  .bgg {
+  color: #008080;
+}
+body {
+  overscroll-behavior-x: none; /* Disable horizontal overscroll behavior */
+}
+
+.cc{
+  background-color: #008080;
+}
+
   #b1{
-    background: linear-gradient(to right, #3498db, #2ecc71);
-    -webkit-background-clip: text;
-    color: transparent;
-    display: inline-block; 
-    
+    color: #009E60;
 
 
   }
   
   .rrr {
-    background: linear-gradient(to right, #3498db, #2ecc71);
+   background-color: #008080;
    
 }
   .ggg{
@@ -10678,7 +10679,7 @@ textarea.form-control-lg {
   }
   
   .feature{
-    background: linear-gradient(to right, #3498db, #2ecc71);
+    background-color: #008080;
   }
   
   .my-xl-n1 {
